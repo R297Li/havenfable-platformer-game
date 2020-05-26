@@ -1,0 +1,20 @@
+package com.AdventureGame.Handler;
+
+public enum ResourceType {
+    MINOTAUR,
+    DRAGON,
+    WARRIOR,
+    CYCLOPS,
+    PURPLE_PORTAL,
+    GREEN_PORTAL,
+    IMP,
+    SNAIL,
+    ORANGE_FIREBALL,
+    PURPLE_FIREBALL,
+    HUD_PLAYER1,
+    HUD_PLAYER2,
+    DEATHANIMATION,
+    GRASSTILESET,
+    GRASSBACKGROUND,
+    MENUBACKGROUND
+}

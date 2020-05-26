@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e72d34cd-40c0-4f2f-9af0-630aeb71b8e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="243" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zozu2Je7WDZkiVqoCpnpLIdRRh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ZombieGame" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\2DAdventurePlatformerGame\res" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.AdventureGame.Entity.Misc" />
+      <recent name="com.AdventureGame.Entity.SpecialAtk" />
+      <recent name="com.AdventureGame.Entity.Players" />
+      <recent name="com.AdventureGame.Entity.Utils" />
+      <recent name="com.AdventureGame.Entity.Enemies" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\2DAdventurePlatformerGame\res" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.AdventureGame.main.Game" />
+      <module name="2DAdventurePlatformerGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.AdventureGame.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e72d34cd-40c0-4f2f-9af0-630aeb71b8e1" name="Default Changelist" comment="" />
+      <created>1585520453565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585520453565</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="993" y="182" key="#Project_Structure" timestamp="1585521020682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="993" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585521020682" />
+    <state x="657" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585609637317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="657" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585609637317" />
+    <state x="1171" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586570491859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1171" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586570491859" />
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1586484567448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586484567448" />
+    <state x="698" y="299" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1587068374711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="299" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587068374711" />
+    <state x="756" y="379" width="452" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587068388537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="379" width="452" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1587068388537" />
+    <state x="406" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587068985393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="406" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587068985393" />
+    <state x="1170" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586393162704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586393162704" />
+    <state width="580" height="466" key="DebuggerActiveHint" timestamp="1586977526136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="580" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1586977526136" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1588891836541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588891836541" />
+    <state width="1876" height="148" key="GridCell.Tab.0.bottom" timestamp="1588891839090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="148" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588891839090" />
+    <state width="1876" height="148" key="GridCell.Tab.0.center" timestamp="1588891839089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="148" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588891839089" />
+    <state width="1876" height="148" key="GridCell.Tab.0.left" timestamp="1588891839089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="148" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588891839089" />
+    <state width="1876" height="148" key="GridCell.Tab.0.right" timestamp="1588891839090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="148" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588891839090" />
+    <state width="1876" height="178" key="GridCell.Tab.1.bottom" timestamp="1587101603915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="178" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587101603915" />
+    <state width="1876" height="178" key="GridCell.Tab.1.center" timestamp="1587101603915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="178" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587101603915" />
+    <state width="1876" height="178" key="GridCell.Tab.1.left" timestamp="1587101603915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="178" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587101603915" />
+    <state width="1876" height="178" key="GridCell.Tab.1.right" timestamp="1587101603915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="178" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587101603915" />
+    <state x="902" y="166" key="SettingsEditor" timestamp="1585520960747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="902" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585520960747" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588887988130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588887988130" />
+    <state x="604" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585613380464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="604" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585613380464" />
+    <state x="536" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586467253078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1586467253078" />
+    <state x="1135" y="0" width="607" height="536" key="find.popup" timestamp="1588888215114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1135" y="0" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588888215114" />
+    <state x="342" y="140" key="new project wizard" timestamp="1585522094378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585522094378" />
+    <state x="1096" y="242" width="672" height="677" key="run.anything.popup" timestamp="1586981846039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="242" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586981846039" />
+    <state x="1103" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1588888097811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="238" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588888097811" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/AdventureGame/Handler/KeyInputHandler.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/AdventureGame/Entity/GameObject.java</url>
+          <line>222</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/AdventureGame/Handler/GameObjectHandler.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/AdventureGame/Entity/GameObject.java</url>
+          <line>206</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/AdventureGame/Entity/GameObject.java</url>
+          <line>221</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/AdventureGame/Entity/MapObject.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2DAdventurePlatformerGame$Game.ic" NAME="Game Coverage Results" MODIFIED="1586468751560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.AdventureGame.main.*</FILTER>
+    </SUITE>
+  </component>
+</project>
